@@ -1,4 +1,5 @@
 # Usage
+change the file train/dev/test file location in main.py and then run-
 <sub> python main.py <sub> 
 
 
