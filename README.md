@@ -1,5 +1,5 @@
 # Usage
-change the train/dev/test file location in main.py and then 
+change the train/dev/test file location and language in main.py and then 
 ## run
 <sub> python main.py <sub> 
 # Dataset
