@@ -51,11 +51,4 @@ class Perceptron:
                 if total % 500 == 0:
                     accuracy = 100.0 * correct / total
                     print("total:", total, "accuracy:", accuracy)
-
-
-# file_path = 'english/train/wsj_train.only-projective.conll06'  # train file location
-# file_path = 'english/train/wsj_train.only-projective.first-1k.conll06'
-# file_path = 'german/train/tiger-2.2.train.only-projective.first-1k.conll06'
-# file_path = 'german/train/tiger-2.2.train.only-projective.conll06'
-# language = 'de'
-# train(file_path, language)
+                    
